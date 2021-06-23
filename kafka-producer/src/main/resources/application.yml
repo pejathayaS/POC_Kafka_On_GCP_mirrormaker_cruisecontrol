@@ -1,0 +1,6 @@
+server:
+  port: 8093
+kafka:
+  producer:
+    bootstrapserver: 34.126.116.238:19092
+    timeOutInMilliSeconds: 4000

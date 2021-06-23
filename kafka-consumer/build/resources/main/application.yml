@@ -1,0 +1,7 @@
+server:
+  port: 8095
+kafka:
+  consumer:
+    bootstrapServers: 34.126.116.238:19092
+    groupId: group_id
+    autoOffsetReset: earliest
